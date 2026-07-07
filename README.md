@@ -72,6 +72,12 @@ Topics in this repository are compiled from:
 - Hands-on Labs
 
 ---
+## License
+
+This repository is protected under the Creative Commons Attribution 4.0 International License.
+All certificates belong to the author and are displayed here for educational and professional documentation purposes.
+
+---
 
 ## Status
 
