@@ -1,4 +1,4 @@
-# 📝 Azure Fundamentals Notes
+## 📝 Azure Fundamentals Notes
 
 This document contains concise notes and important concepts related to **Microsoft Azure Fundamentals**. It serves as a quick revision guide covering cloud computing concepts, Azure architecture, core Azure services, security, governance, pricing, and management tools.
 
